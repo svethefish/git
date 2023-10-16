@@ -6,7 +6,7 @@ namespace git
     {
         static void Main(string[] args)
         {
-           
+           int a = int.Parse(Cosnole.ReadLine());
         }
     }
 }
